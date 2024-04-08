@@ -1,6 +1,7 @@
 # Data Loader
 ZILLOW_DATASET_FOLDER ="YOUR_ZILLOW_IMG_FOLDER_PATH"
 
+
 import os
 os.environ['CUDA_LAUNCH_BLOCKING'] = "1"
 os.environ['KMP_DUPLICATE_LIB_OK'] = "TRUE"
